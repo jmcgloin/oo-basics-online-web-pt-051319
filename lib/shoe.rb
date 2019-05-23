@@ -4,6 +4,6 @@ class Shoe
     @brand = brand
   end
   
-  attr_accessor :brand, :color, :size
+  attr_accessor :brand, :color, :size, :material
   
 end
