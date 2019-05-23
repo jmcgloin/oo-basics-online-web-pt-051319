@@ -4,6 +4,8 @@ class Book
     @title = title
   end
   
+  attr_accessor :author
+  
   attr_reader :title
   
 end
