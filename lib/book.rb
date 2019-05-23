@@ -8,7 +8,7 @@ class Book
   
   attr_reader :title
   
-  def ture_page
+  def turn_page
     
   end
   
