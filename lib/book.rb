@@ -8,5 +8,9 @@ class Book
   
   attr_reader :title
   
+  def ture_page
+    
+  end
+  
 end
 
